@@ -54,4 +54,3 @@ Cette fonctionnalité permet de fermer la session de manière sécurisée afin d
 ## Auteur
 
 Nom : CHRAIBI Mohamed
-GitHub : https://github.com/chraibimo/SPRINGTP3.git

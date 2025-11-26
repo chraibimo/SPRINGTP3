@@ -24,8 +24,7 @@ Cette interface permet aux utilisateurs et aux administrateurs d’accéder au s
 ## Tableau de Bord Utilisateur
 
 Ce tableau de bord est destiné aux utilisateurs standards. Il leur permet de consulter leurs informations, gérer leur profil et utiliser les fonctionnalités disponibles.
-
-<img src="images/user-dashboard.png" width="1000"/>
+<img width="1248" height="832" alt="Dashboard" src="https://github.com/user-attachments/assets/81c5ba2b-fc8a-44d4-9769-d3a3ecf56169" />
 
 ---
 
